@@ -14,7 +14,7 @@
 
 
 
-> # All About `A Simple App Using NodeJS And ExpressJS` 😎
+> # All About `A Simple App Using NodeJS And ExpressJS` 
 
 # **Gained expertise through this project :**
 
