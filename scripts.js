@@ -15,7 +15,6 @@ async function loadTasks() {
         ulEL.appendChild(liEL)
     }
 }
-
 async function handleSaveTask() {
     ulEl = document.getElementById("tasks")
     inputEl = document.getElementById("task")
